@@ -5,11 +5,11 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Congo"
+title = "Home"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "2 January 2006"
+dateFormat = "January 2, 2006"
 
 [params]
   # mainSections = ["section1", "section2"]
@@ -18,9 +18,9 @@ dateFormat = "2 January 2006"
   name = "Jordan Sell"
   image = "img/author.jpg"
   headline = "Hey, welcome to my site!"
-  bio = "I write code sometimes.  Hit me up on my linkedin!"
+  bio = "I write code sometimes.  Hit me up on linkedin!"
   links = [
-    { email = "jordanjsell@gmail.com" },
+    { email = "mailto:jordanjsell@gmail.com" },
     { github = "https://github.com/jordanjsell" },
     { linkedin = "https://linkedin.com/in/jordanjsell" },
     { twitter = "https://twitter.com/jordanjsell" },
